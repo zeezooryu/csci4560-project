@@ -1,1 +1,1 @@
-# csci4560-project
+# Genetic Redistricting
